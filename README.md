@@ -3,3 +3,5 @@
 <h4>NoSQL database,MongoDB uses JSON-like documents with optional schemas,easy for developers to store structured or unstructured data</h4>
 <h4>
 MongoDB is more fast and scalable in comparison to the SQL server</h4>
+
+<h4>Documents are stored in MongoDB in JSON (JavaScript Object Notation) format.</h4>
